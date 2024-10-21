@@ -15,11 +15,11 @@ By the end of this course you will learn:
 
 # Course Format
 
-1. Practical Execution: Every database operation is demonstrated through code in a Jupyter Notebook, allowing students to interactively execute queries, manipulate data, and see immediate results.
+1. **Practical Execution:** Every database operation is demonstrated through code in a Jupyter Notebook, allowing students to interactively execute queries, manipulate data, and see immediate results.
    
-2. Step-by-Step Code Examples: Each lesson contains code snippets that demonstrate SQLite3 operations, making it easy for students to follow along and practice independently.
+2. **Step-by-Step Code Examples:** Each lesson contains code snippets that demonstrate SQLite3 operations, making it easy for students to follow along and practice independently.
    
-3. Hands-On Project: By the end of the course, students will apply their knowledge in a minor project (e.g., a School Management Database) to solidify their learning.
+3. **Hands-On Project:** By the end of the course, students will apply their knowledge in a minor project (e.g., a School Management Database) to solidify their learning.
 
 # How SQLite is Different from MySQL
 
@@ -32,14 +32,14 @@ By the end of this course you will learn:
 
 # Course Outline
 
-## Module 1: Introduction to SQLite3
-- What is Database and it's types?
-- What is SQLite?
-- Comparison between SQLite and MySQL
+## Module 1: Introduction to **SQLite3**
+- What is **Database** and it's types?
+- What is **SQLite**?
+- Comparison between **SQLite** and **MySQL**
 - Key features and Use cases of SQLite
 - Installation and configuration SQLite3 with setting Up SQLite3 locally.
 
-Module 2: Creating and Managing Database
+## Module 2: Creating and Managing Database
 - Database creation
 - Establishing connections using SQLite3
 - `SQL CREATE TABLE` statements
