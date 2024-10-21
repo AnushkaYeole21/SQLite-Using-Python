@@ -1,4 +1,4 @@
-# SQLite3 course (Python + Jupyter)
+# SQLite3 course (Python)
 
 Welcome to `SQLite3 with Python` Course! This course is designed for beginners who want to learn practical database management using SQLite with Python. It's perfect for aspiring data scientists, software developers, or anyone looking to build small to medium-sized applications that require efficient data storage and manipulation without the complexity of a server-based database system.
 
